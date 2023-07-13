@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Smires</h1>
 <h3 align="center">An aspiring software engineer from Rutgers University</h3>
 
-- 🔭 I’m currently working on **a private iOS Application**
+- 🔭 I’m currently working on **my summer internship at eBay**
 
 - 🌱 I’m currently learning **Sprint Boot**
 
