@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Smires</h1>
 <h3 align="center">An aspiring software engineer from Rutgers University</h3>
 
-- 🔭 I’m currently working on **my summer internship at eBay**
+- 🔭 I’m currently working on **a project coming soon to the App Store**
 
-- 🌱 I’m currently learning **Sprint Boot**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 💬 Ask me about **React Native, Java, and C**
 
