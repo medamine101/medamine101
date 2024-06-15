@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Amine Smires</h1>
-<h3 align="center">An aspiring software engineer from Rutgers University</h3>
+<h3 align="center">A software engineer making impact at eBay</h3>
 
 - 🔭 I’m currently working on **a project coming soon to the App Store**
 
